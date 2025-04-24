@@ -3,7 +3,7 @@ Matlab code used to get some plot in the report
 
 Most of the code used in this project is written as MATLAB Live Scripts (.mlx), which cannot be properly displayed on GitHub and are best viewed using the MATLAB application. For convenience, I will also provide standard MATLAB script (.m) versions of the files
 
-# --------------------------------------------------------------------------------------------------------------------------------------
+# ---------------------------------------------------------
 
 # 1: spot_contrast_aperture_change.m ou spot_contrast_aperture_change.mlx
 
@@ -42,7 +42,7 @@ Each file must contain a `candidates` struct with at least:
 ## Notes
 - The original version of this script is a MATLAB Live Script (`.mlx`) and is best viewed in the MATLAB desktop environment.
 
-# --------------------------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------
 
 # courbe_violin_spfi_2.m ou courbe_violin_spfi_2.mlx
 
@@ -81,8 +81,7 @@ These files must be located in the same directory as the script.
 - This script is designed for data visualization and calibration of iSCAT systems based on particle size and illumination conditions.
 - The figure produced contributes to the quantification of the system’s sensitivity.
 
-# --------------------------------------------------------------------------------------------------------------------------------------
-
+# ----------------------------------------------------------
 
 
 
